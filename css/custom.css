@@ -1,0 +1,91 @@
+.tituloGrilla {
+  color: #9c27b0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 18px;
+  font-weight: 200 !important;
+}
+
+.dataTables_filter input {
+  border: none;
+  border-bottom: solid 1px #9c27b0;
+}
+
+.bg-violeta {
+  background-color: #9c27b0 !important;
+}
+
+.bg-gestionar {
+  background-image: url(../imagenes/slider.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.bg-gestionar h1 {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+
+.valor-fila {
+  background-color: #fff;
+  border: none;
+}
+
+.modal-header {
+  background-color: #9c27b0;
+}
+
+.modal-title {
+  color: white;
+}
+
+.dropdown-item {
+  width: 100%;
+}
+
+.nolink {
+  color: #2c4964;
+}
+
+.row-hover {
+  height: 50px;
+}
+
+.row-hover:hover {
+  background: linear-gradient(60deg, #ab47bc, #8e24aa);
+  color: white;
+  cursor: pointer;
+}
+
+#foto-elegido {
+  max-width: 300px;
+}
+
+#back-login {
+  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%);
+}
+
+#layoutAuthentication {
+  padding-top: 4rem;
+}
+
+/* .cienvh #datatablesSimple  {
+  height: 70vh;
+} */
+
+
+
+.pac-container {
+  background-color: #FFF;
+  z-index: 30;
+  position: fixed;
+  display: inline-block;
+  float: left;
+}
+
+.modal-map{
+  z-index: 30;
+}
+
+.modal-backdrop{
+  z-index: 10;
+}​
